@@ -15,7 +15,7 @@ function divide (a, b) {
 }
 
 function increment(){
-  var = 0;
+  var = 4;
   n++;
   return n;
 }
