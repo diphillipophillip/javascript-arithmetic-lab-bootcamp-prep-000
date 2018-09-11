@@ -17,5 +17,5 @@ function divide (a, b) {
 function inc(n) {
   var n = 5
   n++
-  returns
+  return n
 }
