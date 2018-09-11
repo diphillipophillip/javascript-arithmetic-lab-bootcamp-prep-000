@@ -14,4 +14,6 @@ function divide (a, b) {
   return a/ b
 }
 
-function increment()
+function increment(){
+  var = 0
+}
